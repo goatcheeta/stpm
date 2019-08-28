@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "433593415366",
+    "firebase_url": "https://fir-messaging-33426.firebaseio.com",
+    "project_id": "fir-messaging-33426",
+    "storage_bucket": "fir-messaging-33426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433593415366:android:dc7468b05e6282ba",
+        "android_client_info": {
+          "package_name": "com.churchsp.stpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433593415366-bqnd23enrbvm9okpscboqpr38k47ajgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemrzwW8NbdttOPHq_asE2G32A9J_JhmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433593415366-bqnd23enrbvm9okpscboqpr38k47ajgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433593415366:android:bb80043009c877dc",
+        "android_client_info": {
+          "package_name": "com.example.stpm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433593415366-bqnd23enrbvm9okpscboqpr38k47ajgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemrzwW8NbdttOPHq_asE2G32A9J_JhmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433593415366-bqnd23enrbvm9okpscboqpr38k47ajgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
